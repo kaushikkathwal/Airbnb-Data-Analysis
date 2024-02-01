@@ -15,4 +15,9 @@ Procedure:
 8. Builded a comprehensive dashboard using Tableau , combining various visualizations to present key insights from the analysis.
 
 Tableau Dashboard Images:
-![Dashboard 1](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/d33f62cf-05c6-418f-aa72-682c663a3594)
+![Dashboard 1](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/d33f62cf-05c6-418f-aa72-682c663a3594)  
+![Dashboard 2](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/6937e24c-cdf1-4ef9-9b64-92f9f7547b3a)
+
+
+
+
