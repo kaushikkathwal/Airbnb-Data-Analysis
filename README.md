@@ -19,6 +19,7 @@ Tableau Dashboard Images:
 ![Dashboard 1](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/d33f62cf-05c6-418f-aa72-682c663a3594)  
 ![Dashboard 2](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/6937e24c-cdf1-4ef9-9b64-92f9f7547b3a)
 ![Dashboard 3](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/007db2a5-1820-4cc4-8c88-b00fea95003a)
+![Dashboard 4](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/e032fc75-5828-4f7a-9e2f-2da96059a9f3)
 
 
 
