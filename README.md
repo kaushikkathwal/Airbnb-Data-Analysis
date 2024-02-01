@@ -21,6 +21,8 @@ Tableau Dashboard Images:
 ![Dashboard 3](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/007db2a5-1820-4cc4-8c88-b00fea95003a)
 ![Dashboard 4](https://github.com/kaushikkathwal/Airbnb-Data-Analysis/assets/144512141/e032fc75-5828-4f7a-9e2f-2da96059a9f3)
 
+Linkedin Post Link:
+https://www.linkedin.com/posts/kaushik-kathwal-372769290_here-presenting-my-project-on-airbnb-data-activity-7158872481104064513-J-ay?utm_source=share&utm_medium=member_desktop
 
 
 
