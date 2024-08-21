@@ -12,7 +12,7 @@ Procedure:
 5. Analyzed availability patterns across seasons, visualizing occupancy rates and demand fluctuations using suitable visualizations.
 6. Investigated location-based insights by extracting and visualizing data for specific regions or neighborhoods.
 7. Created interactive visualizations that enable users to filter and drill down into the data.
-8. Builded a comprehensive dashboard using Tableau , combining various visualizations to present key insights from the analysis.
+8. Builded Two comprehensive dashboards using Tableau and PowerBI , combining various visualizations to present key insights from the analysis.
 
 
 
